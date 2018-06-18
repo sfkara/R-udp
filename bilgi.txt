@@ -1,0 +1,4 @@
+
+Receiver dosya için aðý dinlemeye baþlar,sender dosyayý seçip gönder tuþuna basar,
+sender dosya transferine baþlamadan önce dosyanýn receiver tarafýndan kabul edilmesini bekler.
+Sender ve receiver farklý bilgisayarlar üzerinden çalýþýyor yada sender visual studio üzerinden run edilip receiverin .exe dosyasý üzerinden run edilmesi þeklinde çalýþýyor.

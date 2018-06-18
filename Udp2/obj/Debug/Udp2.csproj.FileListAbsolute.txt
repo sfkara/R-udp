@@ -1,0 +1,33 @@
+c:\users\yusu\documents\visual studio 2012\Projects\Udp2\Udp2\bin\Debug\Udp2.exe.config
+c:\users\yusu\documents\visual studio 2012\Projects\Udp2\Udp2\bin\Debug\Udp2.exe
+c:\users\yusu\documents\visual studio 2012\Projects\Udp2\Udp2\bin\Debug\Udp2.pdb
+c:\users\yusu\documents\visual studio 2012\Projects\Udp2\Udp2\obj\Debug\Udp2.Form1.resources
+c:\users\yusu\documents\visual studio 2012\Projects\Udp2\Udp2\obj\Debug\Udp2.Properties.Resources.resources
+c:\users\yusu\documents\visual studio 2012\Projects\Udp2\Udp2\obj\Debug\Udp2.csproj.GenerateResource.Cache
+c:\users\yusu\documents\visual studio 2012\Projects\Udp2\Udp2\obj\Debug\Udp2.exe
+c:\users\yusu\documents\visual studio 2012\Projects\Udp2\Udp2\obj\Debug\Udp2.pdb
+C:\Users\yusu\Documents\Visual Studio 2012\Projects\Udp2\Udp2\obj\Debug\Udp2.Sender.resources
+C:\Users\yusu\Documents\Visual Studio 2012\Projects\Udp2\Udp2\obj\Debug\Udp2.Receiver.resources
+C:\Users\yusu\Documents\Visual Studio 2012\Projects\Udp2\Udp2\obj\Debug\Udp2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Udp2\Udp2\bin\Debug\Udp2.exe.config
+C:\Users\user\Desktop\Udp2\Udp2\obj\Debug\Udp2.exe
+C:\Users\user\Desktop\Udp2\Udp2\obj\Debug\Udp2.pdb
+C:\Users\user\Desktop\Udp2\Udp2\bin\Debug\Udp2.exe
+C:\Users\user\Desktop\Udp2\Udp2\bin\Debug\Udp2.pdb
+C:\Users\user\Desktop\Udp2\Udp2\obj\Debug\Udp2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Udp2\Udp2\obj\Debug\Udp2.Form1.resources
+C:\Users\user\Desktop\Udp2\Udp2\obj\Debug\Udp2.Properties.Resources.resources
+C:\Users\user\Desktop\Udp2\Udp2\obj\Debug\Udp2.Receiver.resources
+C:\Users\user\Desktop\Udp2\Udp2\obj\Debug\Udp2.Sender.resources
+C:\Users\user\Desktop\Udp2\Udp2\obj\Debug\Udp2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ödev\Udp2\Udp2\bin\Debug\Udp2.exe.config
+C:\Users\user\Desktop\ödev\Udp2\Udp2\obj\Debug\Udp2.exe
+C:\Users\user\Desktop\ödev\Udp2\Udp2\obj\Debug\Udp2.pdb
+C:\Users\user\Desktop\ödev\Udp2\Udp2\bin\Debug\Udp2.exe
+C:\Users\user\Desktop\ödev\Udp2\Udp2\bin\Debug\Udp2.pdb
+C:\Users\user\Desktop\ödev\Udp2\Udp2\obj\Debug\Udp2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ödev\Udp2\Udp2\obj\Debug\Udp2.Form1.resources
+C:\Users\user\Desktop\ödev\Udp2\Udp2\obj\Debug\Udp2.Properties.Resources.resources
+C:\Users\user\Desktop\ödev\Udp2\Udp2\obj\Debug\Udp2.Receiver.resources
+C:\Users\user\Desktop\ödev\Udp2\Udp2\obj\Debug\Udp2.Sender.resources
+C:\Users\user\Desktop\ödev\Udp2\Udp2\obj\Debug\Udp2.csproj.GenerateResource.Cache
